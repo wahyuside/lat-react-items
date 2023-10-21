@@ -1,5 +1,9 @@
 latihan react items
 
+tugas crud sederhana dengan tabel items dan users dengan PostgreSQL sbg database, ExpresJS sbg backend/folder server & ReactJS, Bootstrap sbg frontend/folder client
+
+Bootcamp fullstack NodeJS
+
 yg belum kelar (next time buat latihan lagi):
 - button details yg menampilkan detail dari 1 item
 - button reset pada additem & updateitem
